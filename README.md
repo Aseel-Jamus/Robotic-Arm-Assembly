@@ -5,4 +5,4 @@ The installation steps are very easy:
 
 first constrain the bass with the wihst then join the arm toghter one by one 
 
-![Screenshot 2021-06-21 213650](https://user-images.githubusercontent.com/85850480/122811388-17904880-d2d9-11eb-9568-1d1e361915fa.jpeg)
+!![Screenshot 2021-06-26 104230](https://user-images.githubusercontent.com/85850480/123506179-a00d4100-d66b-11eb-948b-2b132c2c191c.jpeg)
